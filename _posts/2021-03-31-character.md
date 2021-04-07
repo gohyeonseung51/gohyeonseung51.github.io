@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "문자열"
+title: "character"
 ---
 
 
